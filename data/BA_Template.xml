@@ -1,1 +1,162 @@
-
+<templates>
+    <template id="template1">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman standing by a sunlit window, naked, the peek-a-boo sheer lingerie offered fleeting glimpses of her soft curves, her silhouette softly illuminated by the morning light,standing in natural pose, delicate shadows on her skin, background a pastel-toned bedroom with flowing curtains.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman leaning slightly against a window, naked, sexy ass, The peek-a-boo sheer lingerie offered fleeting glimpses of her soft curves, her glowing skin illuminated by warm morning light, background softly blurred with morning streaming through curtains.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman’s face, wearing sheer stockings, her arm resting on a light wooden window bathed in soft morning light, background pastel and blurred.*</prompt>
+        </details>
+    </template>
+    <template id="template2">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman walking barefoot in a garden filled with blooming flowers, naked, wearing a semi-transparent floral dress that flows around her body, standing in natural pose,soft mist rising in the background, the light pastel pink and green tones creating a serene atmosphere.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman standing in a flower-filled garden, naked, sexy ass, her floral dress gently revealing her curves, one hand lightly brushing a flower, background misty with soft sunlight.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>A Black woman sitting on a wooden bench surrounded by flowers, her dress slightly off-shoulder, the sheer fabric hinting at her form, sunlight and mist creating a dreamy, ethereal glow.*</prompt>
+        </details>
+    </template>
+    <template id="template3">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman reclining on a plush chaise lounge, naked, her body wrapped in a translucent ivory slip,standing in natural pose, the soft glow of candlelight illuminating her curves, background blurred with flickering flames and creamy tones.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman sitting on a plush chair, naked, sexy ass, her semi-sheer ivory slip falling delicately on her shoulders, her glowing skin softly lit by candlelight, background warm and inviting.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman’s hands holding a delicate porcelain cup, the soft light reflecting off her skin, the translucent fabric of her sleeve adding an ethereal touch, background warm and inviting.*</prompt>
+        </details>
+    </template>
+    <template id="template4">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman standing on the edge of a serene lake, naked, wearing a flowing translucent dress that moves gently in the breeze, standing in natural pose,the morning mist swirling around her, the water reflecting her silhouette in soft blues and greys.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman standing at the lake’s edge, naked, sexy ass, her translucent dress softly clinging to her form, her hands resting on her waist, the morning mist framing her figure beautifully.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman’s profile as she gazes over the misty lake, her dress revealing subtle curves, the soft light catching her glowing skin, background a dreamy blend of water and fog.*</prompt>
+        </details>
+    </template>
+    <template id="template5">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman walking through a field of blooming pink and white flowers, naked, wearing a flowing semi-transparent pastel dress,standing in natural pose, the breeze gently lifting her hair, sunlight creating a soft glow around her.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman standing in a flower field, naked, sexy ass, her pastel dress softly revealing her silhouette, her hands gently clasping a single bloom, her face glowing in the sunlight.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman standing in the center of a flower field, her silhouette framed by sunlight and blooming flowers, her expression serene and dreamy.*</prompt>
+        </details>
+    </template>
+    <template id="template6">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman standing barefoot on a sandy beach, naked, her semi-transparent shawl flowing behind her in the morning breeze, the waves gently lapping at her feet, the sky painted in soft pastel hues.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman facing the ocean, naked, sexy ass, her semi-transparent shawl wrapped loosely around her, her glowing skin catching the early morning light, background soft and serene.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman sitting on a large rock by the sea, her dress semi-transparent and draped elegantly, her skin glowing under the gentle morning light.*</prompt>
+        </details>
+    </template>
+    <template id="template7">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman walking along a forest path, naked, her semi-sheer dress catching the golden rays of sunlight filtering through the trees, standing in natural pose,the leaves creating dappled shadows around her.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman standing in the forest, naked, sexy ass, her semi-transparent dress blending softly with the golden sunlight, her hands gently resting at her sides, background dappled with light and shadow.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman standing amidst tall trees, wearing semi-sheer dress ,her silhouette outlined by a beam of sunlight, the background blurred with soft greenery and golden light.*</prompt>
+        </details>
+    </template>
+    <template id="template8">
+        <details>
+            <resolution>1024×768</resolution>
+            <key_word>black</key_word>
+            <shot>full body</shot>
+            <prompt>A Black woman sitting by a calm lake, naked, her semi-transparent shawl draped loosely around her shoulders, standing in natural pose,the setting sun casting warm golden tones across the scene, her reflection faintly visible in the water.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>half body</shot>
+            <prompt>Half-body view of a Black woman standing by the lakeside, naked, sexy ass, her shawl loosely held around her shoulders, the sunset creating a warm glow on her skin, background a dreamy blend of water and light.*</prompt>
+        </details>
+        <details>
+            <resolution>512×512</resolution>
+            <key_word>black</key_word>
+            <shot>close up</shot>
+            <prompt>Focus on a Black woman,sitting by the lakeside, sexy ass,small ripples spreading out, the sunlight sparkling on the lake's surface.*</prompt>
+        </details>
+    </template>
+</templates>
