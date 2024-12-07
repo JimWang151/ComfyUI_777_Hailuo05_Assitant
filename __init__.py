@@ -17,7 +17,7 @@ from .Hailuo05 import Hailuo05,ImgCombine,GetBaPrompt
 
 NODE_CLASS_MAPPINGS = {
     "Canvas": Hailuo05,
-    "ImgCombine": ImgCombine,
+    "CombineImage": ImgCombine,
     "GetBAPrompt":GetBaPrompt
 }
 
