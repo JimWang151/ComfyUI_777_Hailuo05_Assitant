@@ -81,7 +81,7 @@ class ImgCombine:
     RETURN_NAMES = ("image",)
     INPUT_IS_LIST = (True,)
     FUNCTION = "stitch_images"
-    CATEGORY = "Hailuo04"
+    CATEGORY = "Hailuo05"
 
     def preprocess_image(self,image):
 
@@ -312,7 +312,7 @@ class GetBaPrompt:
     RETURN_NAMES = ("prompt",)
     FUNCTION = "get_ba_prompt"
     OUTPUT_NODE = True
-    CATEGORY = "Hailuo04"
+    CATEGORY = "Hailuo05"
     DESCRIPTION = "Generate prompt."
 
     def get_ba_prompt(self, step, key_word, width, height,features,tempid):
